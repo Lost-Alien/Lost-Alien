@@ -12,12 +12,12 @@ I am a dedicated student of technology focusing on the intersection of Artificia
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white) ![Robotics](https://img.shields.io/badge/Robotics-525252?style=for-the-badge) ![3D Printing](https://img.shields.io/badge/3D_Printing-000000?style=for-the-badge)
 
 ---
-
+<!---
 ### GitHub Analytics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lost-Alien&layout=compact&theme=vision-friendly-dark)
 
 ![Dev Kumar Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lost-Alien&show_icons=true&theme=vision-friendly-dark)
-
+---!-->
 ---
 
 ### Connect with me
