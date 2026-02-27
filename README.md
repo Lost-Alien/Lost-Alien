@@ -1,6 +1,6 @@
 # Welcome to the profile of Dev Kumar Sharma
 ## AI + Robotics Learner building intelligent systems from **code to hardware**
-
+![Working on Code](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/work/working-on-laptop.gif)
 ---
 
 ### About Me
